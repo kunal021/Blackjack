@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Julee', cursive;
+}
+
+body{
+    background-color: #13005A;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    
+} 
+
+h1{
+    margin: 50px 0;
+    color: #FF8B13;
+}
+
+p{
+    color: #FFFFE8;
+    font-size: 25px;
+    padding: 10px;
+}
+
+button{
+    font-size: 25px;
+    padding: 2px 0;
+    width: 30%;
+    margin: 5px 35%;
+    color: #13005A;
+    background-color: #FF8B13;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Anton', sans-serif;
+}
+
+button:hover{
+    background-color: #FEC868;
+}
+
+#player{
+    padding-top: 25px;
+}
